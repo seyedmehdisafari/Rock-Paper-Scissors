@@ -1,0 +1,5 @@
+# requirements.txt
+
+ # For running 
+ 1. Python 3.7+
+ 2. Tkinter     # is included in the Python standard library so no need to install it separately.
